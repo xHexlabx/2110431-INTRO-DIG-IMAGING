@@ -208,3 +208,5 @@ __marimo__/
 
 # Data
 *.jpg
+*.png
+__MACOSX/
